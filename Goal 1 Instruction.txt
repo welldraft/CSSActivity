@@ -1,0 +1,7 @@
+Goal 1 Instruction
+
+1. Create an index.html file to your project folder
+2. Copy the design for your index.html from goal.png
+3. Create separate html files for inline, internal, external css pages
+4. Copy the design for inline, internal, external html from images attached.
+5. Create a css file for your external css page
