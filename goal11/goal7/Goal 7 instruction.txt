@@ -1,0 +1,3 @@
+Goal 7 instruction
+1. Create an external css file and link it to index.html
+2. The design of your index.html should look like the design from goal7.png
